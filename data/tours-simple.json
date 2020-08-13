@@ -1,7 +1,34 @@
-[
-  { "id": 1, "name": "Tour 1", "description": "Description 1" },
-  { "id": 2, "name": "Tour 6", "description": "Description 1" },
-  { "id": 3, "name": "Tour 6", "description": "Description 1" },
-  { "id": 4, "name": "Tour 6", "description": "Description 1" },
-  { "id": 5, "name": "Tour 6", "description": "Description 1" }
-]
+[{
+    "id": 1,
+    "name": "Tour 1",
+    "description": "Description 1"
+}, {
+    "id": 2,
+    "name": "Tour 2",
+    "description": "Description 1"
+}, {
+    "id": 3,
+    "name": "Tour 3",
+    "description": "Description 1"
+}, {
+    "id": 4,
+    "name": "Tour 4",
+    "description": "Description 1"
+}, {
+    "id": 5,
+    "name": "Tour 5",
+    "description": "Description 1"
+}, {
+    "id": 6,
+    "name": "Tour 6",
+    "description": "Description 1"
+}, {
+    "id": 7,
+    "name": "Tour 7",
+    "description": "Description 1"
+}, {
+    "id": 8,
+    "name": "Tour 7",
+    "description": "Description 1",
+    "price": 500
+}]
